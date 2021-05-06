@@ -11,3 +11,4 @@ contract Election {
         candidateName = _name;
     }
 }
+
